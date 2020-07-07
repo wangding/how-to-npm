@@ -13,12 +13,12 @@
     "err_home": "你好像在你个人的主目录中。",
     "hint": "这是不对的。 请创建一个新文件夹并使用它。",
     "no_package": "似乎缺少了 “package.json” 文件。 你运行 “npm init” 了吗?"
-   },
+  },
   "login": {
-    "whoami_err": "Uh oh!\nIt looks like something went wrong",
-    "logged_out": "Hm... I don't see a login here\nDid you run `npm adduser` to create the account?",
-    "success": "Congratulations, {{user}}!\nYou are the proud owner of an imaginary new npm account!\nUse it wisely.  Never in anger.  Always for the Good.\n\nWith this sweet power comes much responsibility, which is\nsufficiently different from Spiderman's thing that Marvel\nhopefully won't sue us.\n\nExcelsior!"
-   },
+    "whoami_err": "哎呀！\n似乎出了什么问题。",
+    "logged_out": "嗯... 未发现登录用户\n你是否运行了 “npm adduser” 创建账户?",
+    "success": "恭喜你， {{user}}!\n你已经是一个假想的 npm 新账户的拥有者！\n好好利用它！  为了更美好的明天，你不能让你的愤怒驱使你。\n\n强大的力量也伴随着更多的责任。\n太棒了！"
+  },
   "start-a-project": {
     "no_package": "No package.json found.\nPlease run `npm init` in your working directory.",
     "success": "Congratulations!\nYou created a project!  View the package.json file to see it.",
