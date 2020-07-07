@@ -9,10 +9,10 @@
     "success": "恭喜你！\n您已经安装了 npm 的最新版本！"
   },
   "dev-environment": {
-    "err_workshopper": "It looks like you are in the root of the workshopper.",
-    "err_home": "It looks like you are in your home directory.",
-    "hint": "That is not wise.  Please make a new dir, and use that.",
-    "no_package": "Seems like the `package.json` is missing. Did you run `npm init`?"
+    "err_workshopper": "现在好像位于 workshopper 的根目录中。",
+    "err_home": "你好像在你个人的主目录中。",
+    "hint": "这是不对的。 请创建一个新文件夹并使用它。",
+    "no_package": "似乎缺少了 “package.json” 文件。 你运行 “npm init” 了吗?"
    },
   "login": {
     "whoami_err": "Uh oh!\nIt looks like something went wrong",
