@@ -20,10 +20,10 @@
     "success": "恭喜你， {{user}}!\n你已经是一个假想的 npm 新账户的拥有者！\n好好利用它！  为了更美好的明天，你不能让你的愤怒驱使你。\n\n强大的力量也伴随着更多的责任。\n太棒了！"
   },
   "start-a-project": {
-    "no_package": "No package.json found.\nPlease run `npm init` in your working directory.",
-    "success": "Congratulations!\nYou created a project!  View the package.json file to see it.",
+    "no_package": "没有找到 package.json 文件。\n请在你的工作目录下运行 “npm init”",
+    "success": "恭喜你！\n你已经创建了一个项目！  在 package.json 文件中可以查看到它。",
     "extra_credit": "EXTRA CREDIT!  Nicely done."
-   },
+  },
   "install-a-module": {
     "error": "Uh oh!  Looks like it didn't install right.\nThe error I got was: \n{{{error}}}\nMake sure you use the `npm install @linclark/pkg` command\nto install the `@linclark/pkg` module.",
     "success": "Congratulations! You installed it."
