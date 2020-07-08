@@ -42,9 +42,9 @@
     "success": "恭喜你！ 你写了一个有效的测试！\n写一个真正好的测试还有待以后完成。"
   },
   "package-niceties": {
-    "problem": "Not quite!\nThere's still a problem to fix.",
-    "error": "Uh oh!\nIt looks like something went wrong",
-    "success": "Looking sharp!\nA package without a readme and some metadata is like a\nbunch of JavaScript without instructions or git repo links."
+    "problem": "还没有全部完成。\n还有一个问题要解决。",
+    "error": "哦!\n似乎出什么问题了。",
+    "success": "准备好了！\n 一个缺少自述文件和一些元数据的包就像一堆没有说明或Git仓库链接的JavaScript；"
   },
   "publish": {
     "error": "Uh oh!\nIt looks like you didn't successfully publish the\n  {{name}}\npackage.  Try again!"
