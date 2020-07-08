@@ -35,11 +35,11 @@
     "success": "看来你已经把问题解决了。 非常好！\n注意，现在 “npm ls” 平静多了。:)"
   },
   "npm-test": {
-    "section_missing": "Oops!  You don't have a `scripts.test` section in your\npackage.json file.  Edit it, and try again.",
-    "running": "Running your test script...",
-    "running_done": "...done!",
-    "error": "Uh oh!  The test failed!\nTry creating a test that actually works.",
-    "success": "Congratulations!  You wrote a test that passes!\nWriting a test that is actually GOOD is left for another time."
+    "section_missing": "哎呀！ 在你的 package.json 文件里没有 `scripts.test` 字段。\n编辑它, 并重新尝试。",
+    "running": "正在运行测试脚本...",
+    "running_done": "...完成!",
+    "error": "啊哦！ 测试失败了！\n尝试创建一个真正有效的测试。",
+    "success": "恭喜你！ 你写了一个有效的测试！\n写一个真正好的测试还有待以后完成。"
   },
   "package-niceties": {
     "problem": "Not quite!\nThere's still a problem to fix.",
