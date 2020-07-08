@@ -29,11 +29,11 @@
     "success": "恭喜你！安装完成！"
   },
   "listing-dependencies": {
-    "usage": "Please run:\n`how-to-npm verify OK` if everything is ok,\nor:\n`how-to-npm verify NOT OK` otherwise.",
-    "ok_not": "Sorry, no.  Everything is not ok!\nTry running `npm ls` and viewing the error.",
-    "not_ok_not": "Hmm...\nWell, there may indeed be a lot wrong with the world,\nbut your package.json and node_modules folder are fine.",
-    "success": "Looks like you fixed the problem.  Fantastic!\nNote that `npm ls` is a lot calmer now."
-   },
+    "usage": "如果一切OK，请运行：\n“how-to-npm verify OK”，\n否则，运行：\n“how-to-npm verify NOT OK”。",
+    "ok_not": "对不起，出错了！\n请运行 “npm ls” 查看错误信息。",
+    "not_ok_not": "嗯...\n虽然确实还存在许多问题，但你的 package.json 和 node_modules 文件夹却没有问题。",
+    "success": "看来你已经把问题解决了。 非常好！\n注意，现在 “npm ls” 平静多了。:)"
+  },
   "npm-test": {
     "section_missing": "Oops!  You don't have a `scripts.test` section in your\npackage.json file.  Edit it, and try again.",
     "running": "Running your test script...",
