@@ -47,7 +47,7 @@
     "success": "准备好了！\n 一个缺少自述文件和一些元数据的包就像一堆没有说明或Git仓库链接的JavaScript；"
   },
   "publish": {
-    "error": "Uh oh!\nIt looks like you didn't successfully publish the\n  {{name}}\npackage.  Try again!"
+    "error": "很遗憾！\n你未能成功发布\n  {{name}}\n软件包。 再试一次吧！"
   },
   "version": {
     "invalid_semver": "Looks like your package.json has an invalid version!\nUse `npm help semver` to learn more about version numbers\nYour current version number is: {{version}}\n",
