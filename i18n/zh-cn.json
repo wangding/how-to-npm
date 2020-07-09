@@ -67,8 +67,8 @@
     "version_mismatch": "哎呀！  你的 \"latest\" 标签仍然指向最新的发布\n {{version}}。把它指向其他地方\nrelease, {{version}}.\n把它指向其他地方, 并重新运行 `how-to-npm verify`\n\n使用 `npm help dist-tag` 学习更多的相关知识。"
   },
   "outdated": {
-    "no_package": "Run `how-to-npm verify PKG` but replace `PKG` with the name\nof the package that is outdated",
-    "wrong_package": "Nope, it's not {{{pkg}}}.  Try again!"
+    "no_package": "运行 `how-to-npm verify PKG` 将 `PKG` 替换为\n已过时的软件包名称",
+    "wrong_package": "不对，它不是 {{{pkg}}}。  再试一次！"
   },
   "update": {
     "outdated": "Oops!  You are still using the outdated version!",
