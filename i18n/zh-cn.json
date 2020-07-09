@@ -63,8 +63,8 @@
     "success": "哦，看来你还是只有一个标签。\n使用 `npm help dist-tag` 学习如何添加标签。"
   },
   "dist-tag-removal": {
-    "too_many": "Uh oh, looks like you have some extra dist-tags there.\nUse `npm help dist-tag` to learn how to remove them.",
-    "version_mismatch": "Oops!  Your \"latest\" tag still points at the most recent\nrelease, {{version}}.\nPoint that somewhere else, and re-run `how-to-npm verify`\n\nUse `npm help dist-tag` to learn more about how to do it."
+    "too_many": "哦，看来你有一些额外的标签在那里.\n使用 `npm help dist-tag` 学习如何移除它们。",
+    "version_mismatch": "哎呀！  你的 \"latest\" 标签仍然指向最新的发布\n {{version}}。把它指向其他地方\nrelease, {{version}}.\n把它指向其他地方, 并重新运行 `how-to-npm verify`\n\n使用 `npm help dist-tag` 学习更多的相关知识。"
   },
   "outdated": {
     "no_package": "Run `how-to-npm verify PKG` but replace `PKG` with the name\nof the package that is outdated",
