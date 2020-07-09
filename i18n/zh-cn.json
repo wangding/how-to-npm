@@ -71,8 +71,8 @@
     "wrong_package": "不对，它不是 {{{pkg}}}。  再试一次！"
   },
   "update": {
-    "outdated": "Oops!  You are still using the outdated version!",
-    "success": "Awesome!  You're up to date!\nRun `how-to-npm` to move on to the next exercise"
+    "outdated": "哎呀！ 你还在使用过时的版本！",
+    "success": "太棒了！ 你拥有了最新版的！\n运行 `how-to-npm` 继续下一个练习。"
   },
   "rm": {
     "dependencies_left": "Looks like there are some deps still hanging around",
