@@ -55,9 +55,9 @@
     "success": "太棒了！\n运行 `how-to-npm` 接收下一个令人兴奋的挑战吧！"
   },
   "publish-again": {
-    "not_republished": "Whoops!\nLooks like you did not publish the package again\nTry running `npm publish` and then verifying again.",
-    "current_missing": "Hmm... I see that you published more than once, but\nthe current version ({{version}}) is not in the set.\nHere's what I see in there:\n{{{found}}}\nTry publishing again!",
-    "success": "Wow!  You are well on your way to becoming a regular\nTJames \"Substack\" Halidaychuk!  There's no stopping you!\nRun `how-to-npm` to go to the next step."
+    "not_republished": "天啊！\n我想您没有发布更新的软件包。\n尝试运行 `npm publish` 并再次验证。",
+    "current_missing": "嗯... 我看见你发布了两次，可是\n当前版本 ({{version}}) 还没有发布。\n这是已发布的版本列表:\n{{{found}}}\n请重新发布！",
+    "success": "哇！你也能成为未来的\nTJames \"Substack\" Halidaychuk 啊!    没有人能阻止你！\n运行 `how-to-npm` 挑战下一个练习。"
   },
   "dist-tag": {
     "success": "Uh oh, looks like you still only have a single dist-tag.\nUse `npm help dist-tag` to learn how to add another one."
