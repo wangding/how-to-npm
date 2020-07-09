@@ -60,7 +60,7 @@
     "success": "哇！你也能成为未来的\nTJames \"Substack\" Halidaychuk 啊!    没有人能阻止你！\n运行 `how-to-npm` 挑战下一个练习。"
   },
   "dist-tag": {
-    "success": "Uh oh, looks like you still only have a single dist-tag.\nUse `npm help dist-tag` to learn how to add another one."
+    "success": "哦，看来你还是只有一个标签。\n使用 `npm help dist-tag` 学习如何添加标签。"
   },
   "dist-tag-removal": {
     "too_many": "Uh oh, looks like you have some extra dist-tags there.\nUse `npm help dist-tag` to learn how to remove them.",
