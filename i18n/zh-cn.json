@@ -75,8 +75,8 @@
     "success": "太棒了！ 你拥有了最新版的！\n运行 `how-to-npm` 继续下一个练习。"
   },
   "rm": {
-    "dependencies_left": "Looks like there are some deps still hanging around",
-    "package_json_left": "You removed the files, but not the entries in package.json"
+    "dependencies_left": "相关软件包似乎仍存在。",
+    "package_json_left": "你删除了文件，但没有删除package.json中的条目"
   },
   "finale": {
     "todo": "It looks like you still have more work to do. Finish\nthe following exercises before you can start this:"
