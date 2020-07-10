@@ -2,44 +2,44 @@
   "install-npm": {
     "verifying": "正在验证 npm 是否已安装...",
     "missing": "看来 npm 还没有安装。",
-    "npm-problem": "啊哦！ npm 有问题！",
-    "version-verified": "您已经安装了版本{{version}}。  太好了！\n现在让我们看看最新版本是什么...请耐心等待一下...",
+    "npm-problem": "啊哦！npm 有问题！",
+    "version-verified": "太好了！您已安装 npm，版本是 {{version}}。\n现在让我们看看最新版本是什么...请耐心等待一下...",
     "latest-version": "最新的 npm 是: {{version}}",
-    "upgrade": "你已安装版本 {{version}}, 但最新的是 {{latest}}\n运行 “npm install npm -g” 来升级它。\n（如果你愿意的话，你也可以跳过）",
-    "success": "恭喜你！\n您已经安装了 npm 的最新版本！"
+    "upgrade": "您已安装版本 {{version}}, 但最新的是 {{latest}}。\n运行 “npm install npm -g” 来升级它。\n（如果您不愿意升级，可以直接跳过）",
+    "success": "恭喜您！\n您已经安装了 npm 的最新版本！"
   },
   "dev-environment": {
-    "err_workshopper": "现在好像位于 workshopper 的根目录中。",
-    "err_home": "你好像在你个人的主目录中。",
-    "hint": "这是不对的。 请创建一个新文件夹并使用它。",
-    "no_package": "似乎缺少了 “package.json” 文件。 你运行 “npm init” 了吗?"
+    "err_workshopper": "现在好像在 workshopper 的根目录中。",
+    "err_home": "现在好像在您的家目录中。",
+    "hint": "这是不对的。请创建一个新文件夹并使用它。",
+    "no_package": "似乎缺少了 “package.json” 文件。您运行 “npm init” 了吗？"
   },
   "login": {
     "whoami_err": "哎呀！\n似乎出了什么问题。",
-    "logged_out": "嗯... 未发现登录用户\n你是否运行了 “npm adduser” 创建账户?",
-    "success": "恭喜你， {{user}}!\n你已经是一个假想的 npm 新账户的拥有者！\n好好利用它！  为了更美好的明天，你不能让你的愤怒驱使你。\n\n强大的力量也伴随着更多的责任。\n太棒了！"
+    "logged_out": "嗯... 未发现登录用户\n您是否运行 “npm adduser” 创建了账户?",
+    "success": "恭喜您，{{user}}！\n您已经是一个 npm 新账户的拥有者！\n好好利用它！为了更美好的明天，您不能让您的愤怒驱使您。\n\n强大的力量也伴随着更多的责任。\n太棒了！"
   },
   "start-a-project": {
-    "no_package": "没有找到 package.json 文件。\n请在你的工作目录下运行 “npm init”",
-    "success": "恭喜你！\n你已经创建了一个项目！  在 package.json 文件中可以查看到它。",
+    "no_package": "没有找到 package.json 文件。\n请在您的工作目录下运行 “npm init”",
+    "success": "恭喜您！\n您已经创建了一个项目！在 package.json 文件中可以查看到它。",
     "extra_credit": "EXTRA CREDIT!  Nicely done."
   },
   "install-a-module": {
-    "error": "啊哦!  看来它安装的不正确。\n错误提示： \n{{{error}}}\n务必使用 “npm install @linclark/pkg” 命令\n来安装 “@linclark/pkg” 模块。",
-    "success": "恭喜你！安装完成！"
+    "error": "啊哦! 看来安装的不正确。\n错误提示：\n{{{error}}}\n务必使用 “npm install @linclark/pkg” 命令\n来安装 “@linclark/pkg” 模块。",
+    "success": "恭喜您！安装完成！"
   },
   "listing-dependencies": {
     "usage": "如果一切OK，请运行：\n“how-to-npm verify OK”，\n否则，运行：\n“how-to-npm verify NOT OK”。",
     "ok_not": "对不起，出错了！\n请运行 “npm ls” 查看错误信息。",
-    "not_ok_not": "嗯...\n虽然确实还存在许多问题，但你的 package.json 和 node_modules 文件夹却没有问题。",
-    "success": "看来你已经把问题解决了。 非常好！\n注意，现在 “npm ls” 平静多了。:)"
+    "not_ok_not": "嗯...\n虽然确实还存在许多问题，但您的 package.json 和 node_modules 文件夹却没有问题。",
+    "success": "看来您已经把问题解决了。 非常好！\n注意，现在 “npm ls” 平静多了。:)"
   },
   "npm-test": {
-    "section_missing": "哎呀！ 在你的 package.json 文件里没有 `scripts.test` 字段。\n编辑它, 并重新尝试。",
+    "section_missing": "哎呀！ 在您的 package.json 文件里没有 `scripts.test` 字段。\n编辑它, 并重新尝试。",
     "running": "正在运行测试脚本...",
     "running_done": "...完成!",
     "error": "啊哦！ 测试失败了！\n尝试创建一个真正有效的测试。",
-    "success": "恭喜你！ 你写了一个有效的测试！\n写一个真正好的测试还有待以后完成。"
+    "success": "恭喜您！ 您写了一个有效的测试！\n写一个真正好的测试还有待以后完成。"
   },
   "package-niceties": {
     "problem": "还没有全部完成。\n还有一个问题要解决。",
@@ -47,43 +47,43 @@
     "success": "准备好了！\n 一个缺少自述文件和一些元数据的包就像一堆没有说明或Git仓库链接的JavaScript；"
   },
   "publish": {
-    "error": "很遗憾！\n你未能成功发布\n  {{name}}\n软件包。 再试一次吧！"
+    "error": "很遗憾！\n您未能成功发布\n  {{name}}\n软件包。 再试一次吧！"
   },
   "version": {
-    "invalid_semver": "版本格式似乎不正确！\n使用 `npm help semver` 了解更多关于版本号的帮助信息\n你当前的版本号是： {{version}}\n",
+    "invalid_semver": "版本格式似乎不正确！\n使用 `npm help semver` 了解更多关于版本号的帮助信息\n您当前的版本号是： {{version}}\n",
     "old_version": "天啊！版本号仍旧是 {{version}}\n运行 `npm help version` 以了解如何更新版本。",
     "success": "太棒了！\n运行 `how-to-npm` 接收下一个令人兴奋的挑战吧！"
   },
   "publish-again": {
     "not_republished": "天啊！\n我想您没有发布更新的软件包。\n尝试运行 `npm publish` 并再次验证。",
-    "current_missing": "嗯... 我看见你发布了两次，可是\n当前版本 ({{version}}) 还没有发布。\n这是已发布的版本列表:\n{{{found}}}\n请重新发布！",
-    "success": "哇！你也能成为未来的\nTJames \"Substack\" Halidaychuk 啊!    没有人能阻止你！\n运行 `how-to-npm` 挑战下一个练习。"
+    "current_missing": "嗯... 我看见您发布了两次，可是\n当前版本 ({{version}}) 还没有发布。\n这是已发布的版本列表:\n{{{found}}}\n请重新发布！",
+    "success": "哇！您也能成为未来的\nTJames \"Substack\" Halidaychuk 啊!    没有人能阻止您！\n运行 `how-to-npm` 挑战下一个练习。"
   },
   "dist-tag": {
-    "success": "哦，看来你还是只有一个标签。\n使用 `npm help dist-tag` 学习如何添加标签。"
+    "success": "哦，看来您还是只有一个标签。\n使用 `npm help dist-tag` 学习如何添加标签。"
   },
   "dist-tag-removal": {
-    "too_many": "哦，看来你有一些额外的标签在那里.\n使用 `npm help dist-tag` 学习如何移除它们。",
-    "version_mismatch": "哎呀！  你的 \"latest\" 标签仍然指向最新的发布\n {{version}}。把它指向其他地方\nrelease, {{version}}.\n把它指向其他地方, 并重新运行 `how-to-npm verify`\n\n使用 `npm help dist-tag` 学习更多的相关知识。"
+    "too_many": "哦，看来您有一些额外的标签在那里.\n使用 `npm help dist-tag` 学习如何移除它们。",
+    "version_mismatch": "哎呀！  您的 \"latest\" 标签仍然指向最新的发布\n {{version}}。把它指向其他地方\nrelease, {{version}}.\n把它指向其他地方, 并重新运行 `how-to-npm verify`\n\n使用 `npm help dist-tag` 学习更多的相关知识。"
   },
   "outdated": {
     "no_package": "运行 `how-to-npm verify PKG` 将 `PKG` 替换为\n已过时的软件包名称",
     "wrong_package": "不对，它不是 {{{pkg}}}。  再试一次！"
   },
   "update": {
-    "outdated": "哎呀！ 你还在使用过时的版本！",
-    "success": "太棒了！ 你拥有了最新版的！\n运行 `how-to-npm` 继续下一个练习。"
+    "outdated": "哎呀！ 您还在使用过时的版本！",
+    "success": "太棒了！ 您拥有了最新版的！\n运行 `how-to-npm` 继续下一个练习。"
   },
   "rm": {
     "dependencies_left": "相关软件包似乎仍存在。",
-    "package_json_left": "你删除了文件，但没有删除package.json中的条目"
+    "package_json_left": "您删除了文件，但没有删除package.json中的条目"
   },
   "finale": {
-    "todo": "看起来你还有很多工作要做。 在开始之前完成以下练习: "
+    "todo": "看起来您还有很多工作要做。 在开始之前完成以下练习: "
   },
   "error": {
-    "not_setup": "看起来你还没准备好！\n返回到“01 准备开发环境”这一关，设置您的工作目录。",
-    "wrong_folder": "哦！\n你在错误的文件夹里 \n请 cd 到 {{cwd}}\n然后重新尝试。"
+    "not_setup": "看起来您还没准备好！\n返回到“01 准备开发环境”这一关，设置您的工作目录。",
+    "wrong_folder": "哦！\n您在错误的文件夹里 \n请 cd 到 {{cwd}}\n然后重新尝试。"
   },
   "exercise": {
     "00 Install npm": "00 安装 npm",
