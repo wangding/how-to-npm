@@ -1,5 +1,5 @@
 # Collaborators
-
+- [yeqing](https://github.com/yeqing123)
 - [isaacs](https://github.com/isaacs)
 - [linclark](https://github.com/linclark)
 - [pathogen-](https://github.com/pathogen-)

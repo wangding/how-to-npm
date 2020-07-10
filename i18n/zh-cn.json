@@ -82,30 +82,30 @@
     "todo": "看起来你还有很多工作要做。 在开始之前完成以下练习: "
   },
   "error": {
-    "not_setup": "Looks like you are not ready for this one yet!\nGo back to the `01 Dev Environment` lesson to set up\nyour working directory.",
-    "wrong_folder": "Uh oh!\nIt looks like you are in the wrong folder.\nPlease cd into {{cwd}}\nand then try again'"
+    "not_setup": "看起来你还没准备好！\n返回到“01 准备开发环境”这一关，设置您的工作目录。",
+    "wrong_folder": "哦！\n你在错误的文件夹里 \n请 cd 到 {{cwd}}\n然后重新尝试。"
   },
   "exercise": {
-    "00 Install npm": "00 Install npm",
-    "01 Dev Environment": "01 Dev Environment",
-    "02 Login": "02 Login",
-    "03 Start A Project": "03 Start A Project",
-    "04 Install A Module": "04 Install A Module",
-    "05 Listing Dependencies": "05 Listing Dependencies",
-    "06 npm Test": "06 npm Test",
-    "07 Package Niceties": "07 Package Niceties",
-    "08 Publish": "08 Publish",
-    "09 Version": "09 Version",
-    "10 Publish Again": "10 Publish Again",
-    "11 Dist Tag": "11 Dist Tag",
-    "12 Dist Tag Removal": "12 Dist Tag Removal",
-    "13 Outdated": "13 Outdated",
-    "14 Update": "14 Update",
-    "15 Rm": "15 Rm",
-    "16 Finale": "16 Finale"
+    "00 Install npm": "00 安装 npm",
+    "01 Dev Environment": "01 准备开发环境",
+    "02 Login": "02 登录",
+    "03 Start A Project": "03 开始一个项目",
+	"04 Install A Module": "04 安装一个组件",
+	"05 Listing Dependencies": "05 列出依赖项",
+	"06 npm Test": "06 npm 测试",
+	"07 Package Niceties": "07 软件包的细节",
+	"08 Publish": "08 发布",
+	"09 Version": "09 版本",
+	"10 Publish Again": "10 再次发布",
+	"11 Dist Tag": "11 分发标签",
+	"12 Dist Tag Removal": "12 移除标签",
+	"13 Outdated": "13 过时的",
+	"14 Update": "14 更新",
+	"15 Rm": "15 移除",
+	"16 Finale": "16 结尾"
   },
   "menu": {
-    "reset-registry": "RESET REGISTRY"
+    "reset-registry": "重置注册表"
   },
-  "reset": "Successfully reset registry"
+  "reset": "成功重置注册表"
 }
