@@ -79,7 +79,7 @@
     "package_json_left": "你删除了文件，但没有删除package.json中的条目"
   },
   "finale": {
-    "todo": "It looks like you still have more work to do. Finish\nthe following exercises before you can start this:"
+    "todo": "看起来你还有很多工作要做。 在开始之前完成以下练习: "
   },
   "error": {
     "not_setup": "Looks like you are not ready for this one yet!\nGo back to the `01 Dev Environment` lesson to set up\nyour working directory.",
