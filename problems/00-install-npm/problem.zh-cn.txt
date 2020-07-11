@@ -10,7 +10,7 @@ how-to npm solution . 展示当前练习的答案
 
 首先，请确认您是否安装了最新版的 npm。
 
-如果确认成功，请运行 “$ADVENTURE_COMMAND verify” 。
+如果确认成功，请运行 "$ADVENTURE_COMMAND verify" 。
 
 （这是此训练营中唯一需要访问互联网的部分。如果您处于一个网络不通的状态，您可以运
-行 “$ADVENTURE_COMMAND verify skip” 跳过。）
+行 "$ADVENTURE_COMMAND verify skip" 跳过。）

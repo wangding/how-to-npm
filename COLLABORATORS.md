@@ -1,5 +1,4 @@
 # Collaborators
-- [yeqing](https://github.com/yeqing123)
 - [isaacs](https://github.com/isaacs)
 - [linclark](https://github.com/linclark)
 - [pathogen-](https://github.com/pathogen-)
@@ -31,3 +30,4 @@
 - [yous](https://github.com/yous)
 - [marocchino](https://github.com/marocchino)
 - [MJayJang](https://github.com/MJayJang)
+- [yeqing](https://github.com/yeqing123)
