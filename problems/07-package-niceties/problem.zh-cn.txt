@@ -1,5 +1,5 @@
 虽然您创建了一个 package.json 文件，但是它还缺少一些人们通常期望的内容。
-如果您输入 “npm install"，您会看见大致如下的内容：
+如果您输入 "npm install"，您会看见大致如下的内容：
 
     npm WARN package.json %ID% No description
     npm WARN package.json %ID% No repository field
